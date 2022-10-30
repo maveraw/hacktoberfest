@@ -1,3 +1,11 @@
+#### Name:[VAISHALI RAWAT](https://github.com/maveraw)
+
+-Place: Dehradun, Uttarakhand, India
+
+-Bio: I am an Undergraduate pursuing B.tech CSE from Graphic Era University.
+
+-Github: [vaishalirawat](https://github.com/maveraw)
+
 #### Name: [ADITYA SHARMA](https://github.com/adityasharma270103)
 
 - Place: Varanasi, Uttar Pradesh, India
